@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.omsi",
+    "module": "brumm",
+    "version": "1.0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.omsi",
+          "module": "nonno",
+          "version": {
+            "requires": "1.0.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "brumm-1.0.2.aar",
+          "url": "brumm-1.0.2.aar",
+          "size": 2145,
+          "sha512": "3c57f1d9b9114be283e1d0b64c21dab58f56e3c1ac5917697fbf38f8356e46cb0e220015492558882e943c1bc6506a7273737fc7b993db26c9e9828a3cbdac9e",
+          "sha256": "2abda7de83637124bc01bf66179c86cb822854100e112bb6cb3e2a3bcc801fcd",
+          "sha1": "b694c21cf1b44c114258bfda9e5215185c305a94",
+          "md5": "484f00ffed91d657e912676a2eee6048"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.omsi",
+          "module": "nonno",
+          "version": {
+            "requires": "1.0.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "brumm-1.0.2.aar",
+          "url": "brumm-1.0.2.aar",
+          "size": 2145,
+          "sha512": "3c57f1d9b9114be283e1d0b64c21dab58f56e3c1ac5917697fbf38f8356e46cb0e220015492558882e943c1bc6506a7273737fc7b993db26c9e9828a3cbdac9e",
+          "sha256": "2abda7de83637124bc01bf66179c86cb822854100e112bb6cb3e2a3bcc801fcd",
+          "sha1": "b694c21cf1b44c114258bfda9e5215185c305a94",
+          "md5": "484f00ffed91d657e912676a2eee6048"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "brumm-1.0.2-sources.jar",
+          "url": "brumm-1.0.2-sources.jar",
+          "size": 1165,
+          "sha512": "840edd4434e06df3d67aa69f5f92b06713bb03f517510170dc2ba76dc39169cfb793dd485bb2de5e632d002a9144b9754e9d241c637c698ad1f55cb5e43379c2",
+          "sha256": "fb9c8a1fe672bb669bba66fb5057babc10533b9c755d5918e659e8f986031834",
+          "sha1": "a831b74f6af31b8b026e3d72ee3e6ab165701321",
+          "md5": "ef361f38545dd7c036fe8cbc45af4566"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "brumm-1.0.2-javadoc.jar",
+          "url": "brumm-1.0.2-javadoc.jar",
+          "size": 265579,
+          "sha512": "cb7fb89d4cd73c7c90a42997847fe39feb4050ea9697ebaf37748689f74572028023ab3782bde9e0d75a7f7a19193511cbf95aa6a2e7a5906aa07bab11872916",
+          "sha256": "c0b99e185e84b1d50d77573148f766a8fc8357e079c9cbf9c994e1493e024c26",
+          "sha1": "5381d1ff2c34a982111391be5d851d69d6629836",
+          "md5": "b7f52f56f465a83b8e7ca597a4fc59a3"
+        }
+      ]
+    }
+  ]
+}
