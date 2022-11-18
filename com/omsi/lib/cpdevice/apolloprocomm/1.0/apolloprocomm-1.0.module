@@ -35,11 +35,11 @@
         {
           "name": "apolloprocomm-1.0.aar",
           "url": "apolloprocomm-1.0.aar",
-          "size": 346516,
-          "sha512": "ad63b57d568fe58321ff95896cfe241f1d56fdc7576e9dcf918bce70ccb59944dd787793de18b43768c195cd9b8e971b4afde49f504fcfd2a38b8696ff697368",
-          "sha256": "be425e15edab4d4c0a2c0bf1abf10f124e1b77ecde07310f4070c38ac15ae616",
-          "sha1": "73a84c826329a642b61f6dbb90007a8cb39eafe3",
-          "md5": "f8a247e71d7aba6f91866fd7717f4715"
+          "size": 343989,
+          "sha512": "758d527a0be87c3a6d0ed4f862e0a363e1b0c4c375bdb3994b6a2cbb697dde2aceaa64cd832cbc48d363cb089bb3f9cdeb67efc7ef73bab24c4bb5ab9ec6d572",
+          "sha256": "297ecbb8925be660ad63cd4af2fe39032fe7cd90e19b2dd61c64843faaf821b6",
+          "sha1": "82766f0b4a75d643e985819db8de180dc1bdbe3a",
+          "md5": "20c71f2194d8e2269f2a9a392458be9b"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "apolloprocomm-1.0.aar",
           "url": "apolloprocomm-1.0.aar",
-          "size": 346516,
-          "sha512": "ad63b57d568fe58321ff95896cfe241f1d56fdc7576e9dcf918bce70ccb59944dd787793de18b43768c195cd9b8e971b4afde49f504fcfd2a38b8696ff697368",
-          "sha256": "be425e15edab4d4c0a2c0bf1abf10f124e1b77ecde07310f4070c38ac15ae616",
-          "sha1": "73a84c826329a642b61f6dbb90007a8cb39eafe3",
-          "md5": "f8a247e71d7aba6f91866fd7717f4715"
+          "size": 343989,
+          "sha512": "758d527a0be87c3a6d0ed4f862e0a363e1b0c4c375bdb3994b6a2cbb697dde2aceaa64cd832cbc48d363cb089bb3f9cdeb67efc7ef73bab24c4bb5ab9ec6d572",
+          "sha256": "297ecbb8925be660ad63cd4af2fe39032fe7cd90e19b2dd61c64843faaf821b6",
+          "sha1": "82766f0b4a75d643e985819db8de180dc1bdbe3a",
+          "md5": "20c71f2194d8e2269f2a9a392458be9b"
         }
       ]
     }
