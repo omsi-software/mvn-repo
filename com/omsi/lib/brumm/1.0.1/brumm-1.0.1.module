@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.omsi.lib",
+    "module": "brumm",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.omsi.lib",
+          "module": "nonno",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "brumm-1.0.1.aar",
+          "url": "brumm-1.0.1.aar",
+          "size": 2158,
+          "sha512": "6d87311ed4071a7286b5e51b068f3a1b8fc2087fdf1a57b3e801cd15e2066af17da981de31a8c2c0dc60fe0855156f3e81f441017ab98e2638f2c36993ee90a6",
+          "sha256": "0b2d6d27c5cdddd1de11d469410d3db033502f6b0a5f430fb2a56ce4fc004198",
+          "sha1": "a2918b315dbd38f50905b727e56a43c7b2f66161",
+          "md5": "77a586b687c32cfb41e905fab03e881e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.omsi.lib",
+          "module": "nonno",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "brumm-1.0.1.aar",
+          "url": "brumm-1.0.1.aar",
+          "size": 2158,
+          "sha512": "6d87311ed4071a7286b5e51b068f3a1b8fc2087fdf1a57b3e801cd15e2066af17da981de31a8c2c0dc60fe0855156f3e81f441017ab98e2638f2c36993ee90a6",
+          "sha256": "0b2d6d27c5cdddd1de11d469410d3db033502f6b0a5f430fb2a56ce4fc004198",
+          "sha1": "a2918b315dbd38f50905b727e56a43c7b2f66161",
+          "md5": "77a586b687c32cfb41e905fab03e881e"
+        }
+      ]
+    }
+  ]
+}
