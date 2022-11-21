@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.omsi.lib.cpdevice",
+    "module": "apollocomm",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "apollocomm-1.0.1.aar",
+          "url": "apollocomm-1.0.1.aar",
+          "size": 25896,
+          "sha512": "87f5fc07af16329dd5e6880a5d44fecd7f9674aa92a0e51643956130710528bacf2afaab3876d19eb100aa7963ae833c244edcc2c2d68d496ec105041d82a3e1",
+          "sha256": "3d2910099ef2517209fc7df98f270971efaa35fb09d8fcc1af58fe284d7f8112",
+          "sha1": "1b39d1f9e445d2e106b5f3124166276c035ac626",
+          "md5": "a463de7cb5984cc5d81b05d328523f3c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "apollocomm-1.0.1.aar",
+          "url": "apollocomm-1.0.1.aar",
+          "size": 25896,
+          "sha512": "87f5fc07af16329dd5e6880a5d44fecd7f9674aa92a0e51643956130710528bacf2afaab3876d19eb100aa7963ae833c244edcc2c2d68d496ec105041d82a3e1",
+          "sha256": "3d2910099ef2517209fc7df98f270971efaa35fb09d8fcc1af58fe284d7f8112",
+          "sha1": "1b39d1f9e445d2e106b5f3124166276c035ac626",
+          "md5": "a463de7cb5984cc5d81b05d328523f3c"
+        }
+      ]
+    }
+  ]
+}

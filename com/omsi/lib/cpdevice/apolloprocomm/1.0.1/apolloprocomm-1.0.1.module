@@ -1,0 +1,76 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.omsi.lib.cpdevice",
+    "module": "apolloprocomm",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "apolloprocomm-1.0.1.aar",
+          "url": "apolloprocomm-1.0.1.aar",
+          "size": 343989,
+          "sha512": "758d527a0be87c3a6d0ed4f862e0a363e1b0c4c375bdb3994b6a2cbb697dde2aceaa64cd832cbc48d363cb089bb3f9cdeb67efc7ef73bab24c4bb5ab9ec6d572",
+          "sha256": "297ecbb8925be660ad63cd4af2fe39032fe7cd90e19b2dd61c64843faaf821b6",
+          "sha1": "82766f0b4a75d643e985819db8de180dc1bdbe3a",
+          "md5": "20c71f2194d8e2269f2a9a392458be9b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "apolloprocomm-1.0.1.aar",
+          "url": "apolloprocomm-1.0.1.aar",
+          "size": 343989,
+          "sha512": "758d527a0be87c3a6d0ed4f862e0a363e1b0c4c375bdb3994b6a2cbb697dde2aceaa64cd832cbc48d363cb089bb3f9cdeb67efc7ef73bab24c4bb5ab9ec6d572",
+          "sha256": "297ecbb8925be660ad63cd4af2fe39032fe7cd90e19b2dd61c64843faaf821b6",
+          "sha1": "82766f0b4a75d643e985819db8de180dc1bdbe3a",
+          "md5": "20c71f2194d8e2269f2a9a392458be9b"
+        }
+      ]
+    }
+  ]
+}
