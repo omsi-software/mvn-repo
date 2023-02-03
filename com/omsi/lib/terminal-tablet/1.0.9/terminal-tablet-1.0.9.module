@@ -63,11 +63,11 @@
         {
           "name": "terminal-tablet-1.0.9.aar",
           "url": "terminal-tablet-1.0.9.aar",
-          "size": 52583,
-          "sha512": "90171e2a482a02c03570557d591d4a718541d5a67d7e107af083c45c07463731700d88f65219196d434563cdc85c9f4734920d8d6b0be27e071c3ddfe50b20c8",
-          "sha256": "531cbc217d350ce4d249588650ce8653e748f6dd491e3bdca8c8f47145faca42",
-          "sha1": "f9194c923d8a31a14da839d2de324e48ad2ae37f",
-          "md5": "223907b82998e4c1e1096b9e0ac3631f"
+          "size": 52620,
+          "sha512": "3aeb362f037be3f71a6096ea4d0df4c0bbd7a5d6af6974602161c7165915360a50099f87cee928a771458d2ac77ab96101ecf614b647d82439c060648f4e3f3e",
+          "sha256": "27697af1a5398e5a353a4354920361087ae2f78b0ec111514a268065cad50933",
+          "sha1": "2893d211dcc9fa72b52616695b82ea2cd6effd1f",
+          "md5": "768f3243b0b3191cdd25550039979a6a"
         }
       ]
     },
@@ -127,11 +127,11 @@
         {
           "name": "terminal-tablet-1.0.9.aar",
           "url": "terminal-tablet-1.0.9.aar",
-          "size": 52583,
-          "sha512": "90171e2a482a02c03570557d591d4a718541d5a67d7e107af083c45c07463731700d88f65219196d434563cdc85c9f4734920d8d6b0be27e071c3ddfe50b20c8",
-          "sha256": "531cbc217d350ce4d249588650ce8653e748f6dd491e3bdca8c8f47145faca42",
-          "sha1": "f9194c923d8a31a14da839d2de324e48ad2ae37f",
-          "md5": "223907b82998e4c1e1096b9e0ac3631f"
+          "size": 52620,
+          "sha512": "3aeb362f037be3f71a6096ea4d0df4c0bbd7a5d6af6974602161c7165915360a50099f87cee928a771458d2ac77ab96101ecf614b647d82439c060648f4e3f3e",
+          "sha256": "27697af1a5398e5a353a4354920361087ae2f78b0ec111514a268065cad50933",
+          "sha1": "2893d211dcc9fa72b52616695b82ea2cd6effd1f",
+          "md5": "768f3243b0b3191cdd25550039979a6a"
         }
       ]
     },
