@@ -1,0 +1,137 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.omsi.lib",
+    "module": "file-picker",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "file-picker-1.0.aar",
+          "url": "file-picker-1.0.aar",
+          "size": 14093,
+          "sha512": "7a2f81590728b40759019847f8480e31844527f9c6a2646d99d105e44c751d6ab01a3f51aa2fa1d2fb532d99aec54fe9775476c6eeb188d7d492688bff4a30e9",
+          "sha256": "222ceab1c64cc50ac99f9219600074f44be58da6b96e6f6810a49293cfe13c7a",
+          "sha1": "43c0b074fd1dd3e849ced9d39470f4269d0f642d",
+          "md5": "2a20a1e8f2b4ce942a7d16947ce61dac"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.8.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "file-picker-1.0.aar",
+          "url": "file-picker-1.0.aar",
+          "size": 14093,
+          "sha512": "7a2f81590728b40759019847f8480e31844527f9c6a2646d99d105e44c751d6ab01a3f51aa2fa1d2fb532d99aec54fe9775476c6eeb188d7d492688bff4a30e9",
+          "sha256": "222ceab1c64cc50ac99f9219600074f44be58da6b96e6f6810a49293cfe13c7a",
+          "sha1": "43c0b074fd1dd3e849ced9d39470f4269d0f642d",
+          "md5": "2a20a1e8f2b4ce942a7d16947ce61dac"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "file-picker-1.0-sources.jar",
+          "url": "file-picker-1.0-sources.jar",
+          "size": 5786,
+          "sha512": "82f07ad9cfe7cee4a2e536c924652cbe5e875bbb2581a3a2135f41a90ca710c7db1d766cc0e3e1f9dc8f7783a27eeb9278e8389ad48cbb0e1ff39a4a6736364c",
+          "sha256": "7d656223be07062806c7f6ead7c4af8d105185f272d9549fed1ae5ae0d4e6d36",
+          "sha1": "50d41d8a486015c8d35ef1dfa6fe2d0fcebfaf5a",
+          "md5": "ce5d259154277ad5448c68811f0bdfde"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "file-picker-1.0-javadoc.jar",
+          "url": "file-picker-1.0-javadoc.jar",
+          "size": 310159,
+          "sha512": "82f2588527d97001dd0181599ba29f70204b112908185507f15333707991700313e2a2f5a3d75b926e0344f786ddd898e8b8923407584905e8a42d88384326a6",
+          "sha256": "0d241b31d17210654a52a7d4ab473cae764445a83853df92e79b5e6930bdb5b1",
+          "sha1": "e6d0e1bd2f92c1888512c3965b9f76fa3a4aefeb",
+          "md5": "aed28fad5797e81eddd0bab90e414681"
+        }
+      ]
+    }
+  ]
+}
