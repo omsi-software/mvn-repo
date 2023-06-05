@@ -3,7 +3,7 @@
   "component": {
     "group": "com.omsi.lib",
     "module": "terminal-tablet",
-    "version": "1.0.14",
+    "version": "1.0.14.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -68,8 +68,8 @@
       ],
       "files": [
         {
-          "name": "terminal-tablet-1.0.14.aar",
-          "url": "terminal-tablet-1.0.14.aar",
+          "name": "terminal-tablet-1.0.14.1.aar",
+          "url": "terminal-tablet-1.0.14.1.aar",
           "size": 95454,
           "sha512": "340ede40e12050b07ca353d638b88625da19884bdcfbe2d3a6f4963c80837920dca723f9e11a19658e8e99b1584979add9537cdf43d492ef758164ecb392155f",
           "sha256": "98a7677d0df63ef0fc93119d534faf2925a337cccb68478f55e204eb41f981c2",
@@ -139,8 +139,8 @@
       ],
       "files": [
         {
-          "name": "terminal-tablet-1.0.14.aar",
-          "url": "terminal-tablet-1.0.14.aar",
+          "name": "terminal-tablet-1.0.14.1.aar",
+          "url": "terminal-tablet-1.0.14.1.aar",
           "size": 95454,
           "sha512": "340ede40e12050b07ca353d638b88625da19884bdcfbe2d3a6f4963c80837920dca723f9e11a19658e8e99b1584979add9537cdf43d492ef758164ecb392155f",
           "sha256": "98a7677d0df63ef0fc93119d534faf2925a337cccb68478f55e204eb41f981c2",
@@ -159,8 +159,8 @@
       },
       "files": [
         {
-          "name": "terminal-tablet-1.0.14-sources.jar",
-          "url": "terminal-tablet-1.0.14-sources.jar",
+          "name": "terminal-tablet-1.0.14.1-sources.jar",
+          "url": "terminal-tablet-1.0.14.1-sources.jar",
           "size": 36134,
           "sha512": "9655fb87e81aebff2db942818fba8b4cdcbc1f6729e4e710e8f36a5d5a976095071c90979225692d50a2a2d0b803f60edfbb5a9bf4de74865514ca6835c9f6aa",
           "sha256": "99c87eb7ec673e153dcf52d2ea022316a6cddfe7dc43b0d18a5c0b7234428a97",
@@ -179,8 +179,8 @@
       },
       "files": [
         {
-          "name": "terminal-tablet-1.0.14-javadoc.jar",
-          "url": "terminal-tablet-1.0.14-javadoc.jar",
+          "name": "terminal-tablet-1.0.14.1-javadoc.jar",
+          "url": "terminal-tablet-1.0.14.1-javadoc.jar",
           "size": 402719,
           "sha512": "09f314f7aab41e42ce1fd3455a1f2f6c0e50919ae06739d05e3e2bc803e0e2f6db64e5bc570a05f5471195d456721250da70a171efa349823fa6b10c84316406",
           "sha256": "5fe921671fbc4714f5d2fc48038d94fee1483bb12d4a688b2d0ddba25347ecb7",
