@@ -3,7 +3,7 @@
   "component": {
     "group": "com.omsi.lib",
     "module": "terminal-tablet",
-    "version": "1.0.19",
+    "version": "1.0.20",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -68,8 +68,8 @@
       ],
       "files": [
         {
-          "name": "terminal-tablet-1.0.19.aar",
-          "url": "terminal-tablet-1.0.19.aar",
+          "name": "terminal-tablet-1.0.20.aar",
+          "url": "terminal-tablet-1.0.20.aar",
           "size": 103948,
           "sha512": "b8fd993013911d738142a545dbd0f2101e73e3434063dbf9007a474fd2c2dc05ab6ce02833492121de684bdeb5fdd858b848b9147df5273255983dafd0a03d2c",
           "sha256": "38499a94ce7e7d0d0d7de63f2aad553ce271f48741c0a7a4f61d0a77af8509a0",
@@ -139,8 +139,8 @@
       ],
       "files": [
         {
-          "name": "terminal-tablet-1.0.19.aar",
-          "url": "terminal-tablet-1.0.19.aar",
+          "name": "terminal-tablet-1.0.20.aar",
+          "url": "terminal-tablet-1.0.20.aar",
           "size": 103948,
           "sha512": "b8fd993013911d738142a545dbd0f2101e73e3434063dbf9007a474fd2c2dc05ab6ce02833492121de684bdeb5fdd858b848b9147df5273255983dafd0a03d2c",
           "sha256": "38499a94ce7e7d0d0d7de63f2aad553ce271f48741c0a7a4f61d0a77af8509a0",
@@ -159,8 +159,8 @@
       },
       "files": [
         {
-          "name": "terminal-tablet-1.0.19-javadoc.jar",
-          "url": "terminal-tablet-1.0.19-javadoc.jar",
+          "name": "terminal-tablet-1.0.20-javadoc.jar",
+          "url": "terminal-tablet-1.0.20-javadoc.jar",
           "size": 407450,
           "sha512": "9ffd49f57fc675c9c4c2bdfee2cdf3e14f39ad334f14aafc158f3e33f6d34976e54aa05e0fa714d8b01df17597e492e7373fcc328dcf148c65f7d7487fdb0a0a",
           "sha256": "e3ae70d91739c4eb8335f2197f71721d6acceef9d39a881dfc6702c95ef2716f",
