@@ -3,7 +3,7 @@
   "component": {
     "group": "com.omsi.lib",
     "module": "terminal-tablet",
-    "version": "1.0.23",
+    "version": "1.0.24",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -68,13 +68,13 @@
       ],
       "files": [
         {
-          "name": "terminal-tablet-1.0.23.aar",
-          "url": "terminal-tablet-1.0.23.aar",
-          "size": 114457,
-          "sha512": "5246bf7d72602ac9a193345b6c25aa54002871b90a6b8da5f0ce752a67b43df6f564a53120f1da835dd2a6109fac7e4f79c4bc9a84602c1fc199a6b2c09d162e",
-          "sha256": "0989bd751479dabc45256134059073ba12ce64effaa56ea8e3e731bbb21ebc53",
-          "sha1": "557830081ae7ab69d42f5f4870ebebae084b4049",
-          "md5": "8f04fdf357c4b8d26883d419997c5231"
+          "name": "terminal-tablet-1.0.24.aar",
+          "url": "terminal-tablet-1.0.24.aar",
+          "size": 115470,
+          "sha512": "2d61bc397933a9d273e24a0f6c65a862cb08df2f4ce31a8f2c1f0128d69443ec5a6e4ad9df01846148a44f42b7bd74f9ebdab8abc85fc11bb9d42702b9f94798",
+          "sha256": "8756e62b7dcf2c94f022b3ba8e2b11886d474e651bc798695239c8639213032e",
+          "sha1": "21726e9cd8f7d675d0c06efeda21fc0fb664a557",
+          "md5": "a2522b8f7cc0db4428d88e96c0083386"
         }
       ]
     },
@@ -146,13 +146,13 @@
       ],
       "files": [
         {
-          "name": "terminal-tablet-1.0.23.aar",
-          "url": "terminal-tablet-1.0.23.aar",
-          "size": 114457,
-          "sha512": "5246bf7d72602ac9a193345b6c25aa54002871b90a6b8da5f0ce752a67b43df6f564a53120f1da835dd2a6109fac7e4f79c4bc9a84602c1fc199a6b2c09d162e",
-          "sha256": "0989bd751479dabc45256134059073ba12ce64effaa56ea8e3e731bbb21ebc53",
-          "sha1": "557830081ae7ab69d42f5f4870ebebae084b4049",
-          "md5": "8f04fdf357c4b8d26883d419997c5231"
+          "name": "terminal-tablet-1.0.24.aar",
+          "url": "terminal-tablet-1.0.24.aar",
+          "size": 115470,
+          "sha512": "2d61bc397933a9d273e24a0f6c65a862cb08df2f4ce31a8f2c1f0128d69443ec5a6e4ad9df01846148a44f42b7bd74f9ebdab8abc85fc11bb9d42702b9f94798",
+          "sha256": "8756e62b7dcf2c94f022b3ba8e2b11886d474e651bc798695239c8639213032e",
+          "sha1": "21726e9cd8f7d675d0c06efeda21fc0fb664a557",
+          "md5": "a2522b8f7cc0db4428d88e96c0083386"
         }
       ]
     },
@@ -166,13 +166,13 @@
       },
       "files": [
         {
-          "name": "terminal-tablet-1.0.23-javadoc.jar",
-          "url": "terminal-tablet-1.0.23-javadoc.jar",
-          "size": 412316,
-          "sha512": "416b640e15249658917e9ee0e7b7aba2b4e840f988fb87a592ad4487e9c61c53570be96f82847ed3ea877932b53663d7616e5a57c7e6dfb4b42e36f6e71a7432",
-          "sha256": "03f481997ce50c8823bdd3fab0ec6d067c3fb86672aedb00f28319686093a745",
-          "sha1": "c2811e641cee6625998ec228cc4e5b1df446b164",
-          "md5": "07f8ac4685efad01fb7f9c318f5e257d"
+          "name": "terminal-tablet-1.0.24-javadoc.jar",
+          "url": "terminal-tablet-1.0.24-javadoc.jar",
+          "size": 412280,
+          "sha512": "077d6c46e23a3974fa7822b433dd067bb2c731815c92ddd1306531c66b72820217000a181360dd549fbfea64f1d623fc43d5db8fe276073ed1459e41060a7086",
+          "sha256": "7a51007a0f161481dde81ef08d8f798d09ae94c3ab73f7324226b1d1402c5945",
+          "sha1": "7eba23ffc924ebcf5f4317df6288b4c83d695f7b",
+          "md5": "d4c7d0894bb46ff2aec73df70172ec94"
         }
       ]
     }
