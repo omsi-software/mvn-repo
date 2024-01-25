@@ -1,0 +1,180 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.omsi.lib",
+    "module": "terminal-tablet",
+    "version": "1.0.32",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.10.0"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apolloprocamera",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpsdk-cpcomm",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apolloprocomm",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apollocomm",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "terminal-tablet-1.0.32.aar",
+          "url": "terminal-tablet-1.0.32.aar",
+          "size": 120562,
+          "sha512": "1087b856e20dcbe5f5b7030b2f4a4f3cfbc135731bd8eee20e73247fb6f42745c4c66f586f897f2fd965f0e531629c7dc5ca00a0820eb339d5cf0d96f29ecda5",
+          "sha256": "f1a7f98b70472efa40c6531e1f565039fe941a4ff80d0b4e31ce688d41368a4f",
+          "sha1": "1b8bc1bd4d55acddb34d882ff0b350d90156ea54",
+          "md5": "293f1d2080785e808fca346620393781"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.10.0"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apolloprocamera",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpsdk-cpcomm",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apolloprocomm",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apollocomm",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.7.10"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.7.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "terminal-tablet-1.0.32.aar",
+          "url": "terminal-tablet-1.0.32.aar",
+          "size": 120562,
+          "sha512": "1087b856e20dcbe5f5b7030b2f4a4f3cfbc135731bd8eee20e73247fb6f42745c4c66f586f897f2fd965f0e531629c7dc5ca00a0820eb339d5cf0d96f29ecda5",
+          "sha256": "f1a7f98b70472efa40c6531e1f565039fe941a4ff80d0b4e31ce688d41368a4f",
+          "sha1": "1b8bc1bd4d55acddb34d882ff0b350d90156ea54",
+          "md5": "293f1d2080785e808fca346620393781"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "terminal-tablet-1.0.32-javadoc.jar",
+          "url": "terminal-tablet-1.0.32-javadoc.jar",
+          "size": 421349,
+          "sha512": "87d033e682d0b128e421d0683966c5b51f0996ac1de1996e26ed489ae3e00288ffead1c1139e20d21c2f42636b57b799be6e39be1bcaa4ce2ccc19c8ec91f0c4",
+          "sha256": "a7f86857f8b8b4f60b8735a66068fee72d8994e45b4cc438220efcdca133b73a",
+          "sha1": "543a52ead605d27b4a571b9225030d9eee6db795",
+          "md5": "5b7982537a361cc690481cdd74b3458d"
+        }
+      ]
+    }
+  ]
+}
