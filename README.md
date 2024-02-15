@@ -15,6 +15,19 @@ Instruction to use github for Maven repository:
             accessKey "someKey"
             secretKey "someSecret"
         }
+
+        or
+
+          maven{
+            url "https://raw.githubusercontent.com/omsi-software/mvn-repo/omsi"
+            credentials {
+                username = getSecretKeys()['USERNAME']
+                password = getSecretKeys()['TOKEN']
+            }
+            authentication {
+                basic(BasicAuthentication)
+            }
+        }
      */
 
 
