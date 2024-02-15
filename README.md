@@ -31,6 +31,14 @@ Instruction to use github for Maven repository:
      */
 
 
+     def getSecretKeys(){
+    def keyFile = file("D:\\\\AndroidStudioProjects\\\\SIGNING\\\\data.properties")
+    def secretKeys = new Properties()
+    secretKeys.load(new FileInputStream(keyFile))
+    return secretKeys
+}
+
+
 
 TO publish a module:
 
