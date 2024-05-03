@@ -3,7 +3,7 @@
   "component": {
     "group": "com.omsi.lib",
     "module": "terminal-tablet",
-    "version": "2.0.5",
+    "version": "2.0.6",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -82,13 +82,13 @@
       ],
       "files": [
         {
-          "name": "terminal-tablet-2.0.5.aar",
-          "url": "terminal-tablet-2.0.5.aar",
-          "size": 131467,
-          "sha512": "cb3150e3945468051fb4bcdefb42ccbc1930deb4079d36f9f5575384c503338435720e852f9c17d0b0783603325c9b241bda81e58f7f44c7aec85cccb5836c70",
-          "sha256": "07ad14fd7ee1e5de01e928e5359389b6204600cfe221ea009da400181a377b44",
-          "sha1": "9e927d4dbb1cec131608ca782916b444ba6bef3c",
-          "md5": "fcabdb44219414670ce1c60ee48101f5"
+          "name": "terminal-tablet-2.0.6.aar",
+          "url": "terminal-tablet-2.0.6.aar",
+          "size": 131327,
+          "sha512": "f600d8f901bceda2810ff0def35f5ae7aa4697a743242502c43d216d90df0ddd704f52d2aa5b7cdca8986c1053fb2c8ea49d2d00a6b2982ae00f4701d4bd6f34",
+          "sha256": "9df6aacc8cbbb6b92ee1152594e6bc89ae3e5b22134355271ae1b1090b350b3f",
+          "sha1": "3d7a83b8e1a9b122fc9aed476c763291572f0289",
+          "md5": "645c98cdbcb8817aa10e5b3b31e1bff7"
         }
       ]
     },
@@ -174,13 +174,13 @@
       ],
       "files": [
         {
-          "name": "terminal-tablet-2.0.5.aar",
-          "url": "terminal-tablet-2.0.5.aar",
-          "size": 131467,
-          "sha512": "cb3150e3945468051fb4bcdefb42ccbc1930deb4079d36f9f5575384c503338435720e852f9c17d0b0783603325c9b241bda81e58f7f44c7aec85cccb5836c70",
-          "sha256": "07ad14fd7ee1e5de01e928e5359389b6204600cfe221ea009da400181a377b44",
-          "sha1": "9e927d4dbb1cec131608ca782916b444ba6bef3c",
-          "md5": "fcabdb44219414670ce1c60ee48101f5"
+          "name": "terminal-tablet-2.0.6.aar",
+          "url": "terminal-tablet-2.0.6.aar",
+          "size": 131327,
+          "sha512": "f600d8f901bceda2810ff0def35f5ae7aa4697a743242502c43d216d90df0ddd704f52d2aa5b7cdca8986c1053fb2c8ea49d2d00a6b2982ae00f4701d4bd6f34",
+          "sha256": "9df6aacc8cbbb6b92ee1152594e6bc89ae3e5b22134355271ae1b1090b350b3f",
+          "sha1": "3d7a83b8e1a9b122fc9aed476c763291572f0289",
+          "md5": "645c98cdbcb8817aa10e5b3b31e1bff7"
         }
       ]
     },
@@ -194,8 +194,8 @@
       },
       "files": [
         {
-          "name": "terminal-tablet-2.0.5-javadoc.jar",
-          "url": "terminal-tablet-2.0.5-javadoc.jar",
+          "name": "terminal-tablet-2.0.6-javadoc.jar",
+          "url": "terminal-tablet-2.0.6-javadoc.jar",
           "size": 424756,
           "sha512": "c248889ff75ca00b7c5629ba90a6b4c799af6ac005fafb9bd02c11f25e81d43281fdf39dfda10950687f91b674bd17d0cd2d2bc0d46cfda82e689a0840fca61a",
           "sha256": "862d690acd167b03d409f9b0f39dbb9a83843cf0bfd4ef456d1b7a3bf52aed05",
