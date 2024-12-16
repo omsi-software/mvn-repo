@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4"
+      "version": "8.4"
     }
   },
   "variants": [
@@ -25,9 +25,9 @@
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.7.10"
+            "requires": "1.9.22"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "apollocomm-1.0.2.aar",
           "url": "apollocomm-1.0.2.aar",
-          "size": 25864,
-          "sha512": "79b7e1e60ef1f382dac8dea8cca5989659016d9d70b7d8377e9966b925e6571ff641061784574085f7e41276564d82f93c11d58a889ee7fb313726e9e745c492",
-          "sha256": "cefcf82570cb57d3e9f472cae8a093c9bdeda91f1b139c4c6ac4f2649d0163d8",
-          "sha1": "cb88e64ec55385e86bd90562a5085f10a8d84265",
-          "md5": "a0ff8eff1cadd10d3cc7cbe2bd67b8b8"
+          "size": 26197,
+          "sha512": "9be8a0b300f11009b59371cffe49bfc3cb057f52eac2c077f18274ecb336a72de419658bbb4c2dffe83934fb1f0ffec2ac2bbb6d59c819b79e59f2a7fcd1c195",
+          "sha256": "e6ed7c5b9df5d9b9a191fcc77d695d1fb842bf808b2086aa663281edd791c56f",
+          "sha1": "56e333fe224a2c0b98a1ef26ef6fa5aac2cc48a2",
+          "md5": "3f11827b7ea1e9b0fa3bc4adbefab345"
         }
       ]
     },
@@ -54,9 +54,9 @@
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib-jdk8",
+          "module": "kotlin-stdlib",
           "version": {
-            "requires": "1.7.10"
+            "requires": "1.9.22"
           }
         }
       ],
@@ -64,11 +64,31 @@
         {
           "name": "apollocomm-1.0.2.aar",
           "url": "apollocomm-1.0.2.aar",
-          "size": 25864,
-          "sha512": "79b7e1e60ef1f382dac8dea8cca5989659016d9d70b7d8377e9966b925e6571ff641061784574085f7e41276564d82f93c11d58a889ee7fb313726e9e745c492",
-          "sha256": "cefcf82570cb57d3e9f472cae8a093c9bdeda91f1b139c4c6ac4f2649d0163d8",
-          "sha1": "cb88e64ec55385e86bd90562a5085f10a8d84265",
-          "md5": "a0ff8eff1cadd10d3cc7cbe2bd67b8b8"
+          "size": 26197,
+          "sha512": "9be8a0b300f11009b59371cffe49bfc3cb057f52eac2c077f18274ecb336a72de419658bbb4c2dffe83934fb1f0ffec2ac2bbb6d59c819b79e59f2a7fcd1c195",
+          "sha256": "e6ed7c5b9df5d9b9a191fcc77d695d1fb842bf808b2086aa663281edd791c56f",
+          "sha1": "56e333fe224a2c0b98a1ef26ef6fa5aac2cc48a2",
+          "md5": "3f11827b7ea1e9b0fa3bc4adbefab345"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "apollocomm-1.0.2-javadoc.jar",
+          "url": "apollocomm-1.0.2-javadoc.jar",
+          "size": 351020,
+          "sha512": "c690d8da6f86320618fb4f73127f606a9f5c2c5e95e426882b7ce43a5e92be02fad10152b5b25e80129f58e37edd2a5e35c29ef4655adbb0ee05c99db22eaa66",
+          "sha256": "f48830f78ba843ed7195cbbb05b7eaefa0978a72390915c7b9f911e19a93da99",
+          "sha1": "834184b5e3de266d7ff0633007a073b97ab9d3c3",
+          "md5": "f728acc0c9deed29fa73fc06f6584c0f"
         }
       ]
     }
