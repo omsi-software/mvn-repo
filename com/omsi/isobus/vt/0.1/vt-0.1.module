@@ -1,0 +1,167 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.omsi.isobus",
+    "module": "vt",
+    "version": "0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vt-0.1.aar",
+          "url": "vt-0.1.aar",
+          "size": 3722747,
+          "sha512": "8c9349aeef7d56afdf97c1ab27cfae3ec3412add300e6691fe6741d0f3f90bef5cc0550d146b70450dd92c36f9d7f8219f2441ccedc8152947785b59b65f10e7",
+          "sha256": "a38eeee0e5429659750d9bbecc8d1dc5629cc003a420d2dae87ce5c7feb5cf2d",
+          "sha1": "9badb81d2d917809f4f20036a77a43780e0d07d9",
+          "md5": "517e028a9ba03bfd4e29847e3b8d2d77"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.17.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.10.0"
+          }
+        },
+        {
+          "group": "androidx.activity",
+          "module": "activity-compose",
+          "version": {
+            "requires": "1.12.2"
+          }
+        },
+        {
+          "group": "androidx.compose",
+          "module": "compose-bom",
+          "version": {
+            "requires": "2025.12.01"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          }
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui"
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-graphics"
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-tooling-preview"
+        },
+        {
+          "group": "androidx.compose.material3",
+          "module": "material3"
+        },
+        {
+          "group": "androidx.compose.material",
+          "module": "material-icons-extended",
+          "version": {
+            "requires": "1.7.8"
+          }
+        },
+        {
+          "group": "com.google.oboe",
+          "module": "oboe",
+          "version": {
+            "requires": "1.10.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "vt-0.1.aar",
+          "url": "vt-0.1.aar",
+          "size": 3722747,
+          "sha512": "8c9349aeef7d56afdf97c1ab27cfae3ec3412add300e6691fe6741d0f3f90bef5cc0550d146b70450dd92c36f9d7f8219f2441ccedc8152947785b59b65f10e7",
+          "sha256": "a38eeee0e5429659750d9bbecc8d1dc5629cc003a420d2dae87ce5c7feb5cf2d",
+          "sha1": "9badb81d2d917809f4f20036a77a43780e0d07d9",
+          "md5": "517e028a9ba03bfd4e29847e3b8d2d77"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "vt-0.1-sources.jar",
+          "url": "vt-0.1-sources.jar",
+          "size": 36393,
+          "sha512": "3bd071ef9fbf1215127fe396acadc94eadc33db67023013eb2d1039b900a06311cd89a52a3408502e4f6cdd89a122cdd535ee748560a0b47617f2c7aa77a8da7",
+          "sha256": "25a04ee9cacb0ab7fa2c45664e8ccf17dfbd1ae825b9b90b020ba813a6523d81",
+          "sha1": "dba40ec9225abc2e77bd296cb72d6afc639f7b7f",
+          "md5": "8459fef0380a30cb63038e3761fdaaaa"
+        }
+      ]
+    }
+  ]
+}
