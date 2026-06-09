@@ -1,0 +1,222 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.omsi.lib",
+    "module": "terminal-tablet",
+    "version": "2.2.10",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apolloprocamera",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apolloprocomm",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apollocomm",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpcomm",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpbase",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cputils",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpmedia",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "terminal-tablet-2.2.10.aar",
+          "url": "terminal-tablet-2.2.10.aar",
+          "size": 142291,
+          "sha512": "e0d0f5b0cc0b64b421a3907bb10f28fb9630ed8c421cd3d9d6890fca8663c97e5e02bf20b7081a8fdbfa2b4bbcb0338d042559cd1d6a9981ee811e48b7633682",
+          "sha256": "a3b5a8dd00a8044dc20f6d8b88be6ca29f9a347a4af3c14791b89613951ec1f1",
+          "sha1": "dfe7be3b9bcee55aa248aad3ae94c02cae30be8c",
+          "md5": "9ebd135a10f40588f233dd36be19e4a2"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.13.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apolloprocamera",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apolloprocomm",
+          "version": {
+            "requires": "1.0.3"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "apollocomm",
+          "version": {
+            "requires": "1.0.2"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpcomm",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpbase",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cputils",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpmedia",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "terminal-tablet-2.2.10.aar",
+          "url": "terminal-tablet-2.2.10.aar",
+          "size": 142291,
+          "sha512": "e0d0f5b0cc0b64b421a3907bb10f28fb9630ed8c421cd3d9d6890fca8663c97e5e02bf20b7081a8fdbfa2b4bbcb0338d042559cd1d6a9981ee811e48b7633682",
+          "sha256": "a3b5a8dd00a8044dc20f6d8b88be6ca29f9a347a4af3c14791b89613951ec1f1",
+          "sha1": "dfe7be3b9bcee55aa248aad3ae94c02cae30be8c",
+          "md5": "9ebd135a10f40588f233dd36be19e4a2"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "terminal-tablet-2.2.10-javadoc.jar",
+          "url": "terminal-tablet-2.2.10-javadoc.jar",
+          "size": 450727,
+          "sha512": "0c7a91a19e3c4d3a86a49a2249c6cf50e3e1ea276adf7bc4c25daba2433bd6e5df6f488637f1f9c740d69c229aded3efa3b3399e550f61ce181141e86eeb6cf4",
+          "sha256": "f1e763d06ad2f4543d4d87f63222f36023e5d6a25e4a07b61982d59eb7eda3ec",
+          "sha1": "825d33fac2d2716e288ef517e0174c970066a721",
+          "md5": "67d16e1d3ca1ace36192806216ccce25"
+        }
+      ]
+    }
+  ]
+}
