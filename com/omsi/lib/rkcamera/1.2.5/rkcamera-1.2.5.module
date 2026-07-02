@@ -3,7 +3,7 @@
   "component": {
     "group": "com.omsi.lib",
     "module": "rkcamera",
-    "version": "1.2.3",
+    "version": "1.2.5",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -54,13 +54,13 @@
       ],
       "files": [
         {
-          "name": "rkcamera-1.2.3.aar",
-          "url": "rkcamera-1.2.3.aar",
-          "size": 133314,
-          "sha512": "119f29c1aa1f263c07724d3816628f535cd11d000d8c182699e94aa6005d49251cb81c46d105db5608da7f47bc55257591150080eea2b1f39df709ecf26cbe8f",
-          "sha256": "242995dba37e7642bea97646e4ca7ffe2e3e47227d7c57d334e9586441a7a59b",
-          "sha1": "09d72055f860b3d02db9b8880c04df96488eb530",
-          "md5": "5380f49693607057fa45acdd8ba860e9"
+          "name": "rkcamera-1.2.5.aar",
+          "url": "rkcamera-1.2.5.aar",
+          "size": 134130,
+          "sha512": "ffe7ffeb62be49be217970b7c15b5416473efc36b8ba0504c736cf830a5231f60e6393987ec77b40be8ddea9f5688f31c2353c933c92e16791d8b1ca7300aeeb",
+          "sha256": "16f1ae1769850c6bcdb4f2576bf24e9f3f377e3795f8c61f7c3b95a079a49804",
+          "sha1": "92f08bdb7ed6ffd3b3257835d94c74ee37570efa",
+          "md5": "f7f7d8cde40f4cfcaded072303c18d92"
         }
       ]
     },
@@ -160,13 +160,13 @@
       ],
       "files": [
         {
-          "name": "rkcamera-1.2.3.aar",
-          "url": "rkcamera-1.2.3.aar",
-          "size": 133314,
-          "sha512": "119f29c1aa1f263c07724d3816628f535cd11d000d8c182699e94aa6005d49251cb81c46d105db5608da7f47bc55257591150080eea2b1f39df709ecf26cbe8f",
-          "sha256": "242995dba37e7642bea97646e4ca7ffe2e3e47227d7c57d334e9586441a7a59b",
-          "sha1": "09d72055f860b3d02db9b8880c04df96488eb530",
-          "md5": "5380f49693607057fa45acdd8ba860e9"
+          "name": "rkcamera-1.2.5.aar",
+          "url": "rkcamera-1.2.5.aar",
+          "size": 134130,
+          "sha512": "ffe7ffeb62be49be217970b7c15b5416473efc36b8ba0504c736cf830a5231f60e6393987ec77b40be8ddea9f5688f31c2353c933c92e16791d8b1ca7300aeeb",
+          "sha256": "16f1ae1769850c6bcdb4f2576bf24e9f3f377e3795f8c61f7c3b95a079a49804",
+          "sha1": "92f08bdb7ed6ffd3b3257835d94c74ee37570efa",
+          "md5": "f7f7d8cde40f4cfcaded072303c18d92"
         }
       ]
     },
@@ -180,8 +180,8 @@
       },
       "files": [
         {
-          "name": "rkcamera-1.2.3-javadoc.jar",
-          "url": "rkcamera-1.2.3-javadoc.jar",
+          "name": "rkcamera-1.2.5-javadoc.jar",
+          "url": "rkcamera-1.2.5-javadoc.jar",
           "size": 319929,
           "sha512": "2e83de325d377f7657ba1353e28832476dff1ec8baef92351f79daa3789ae5de64e9c32f345b8f3b2e7db1fe5375b28b3c688f2b2439c91edd3b9fa4156de903",
           "sha256": "1154279069c4237252f7981da67ad65aa130fec1ad86c255223389ed13e6435d",
