@@ -1,0 +1,194 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.omsi.lib",
+    "module": "rkcamera",
+    "version": "1.2.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpbase",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpmedia",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpmedia.ipcam",
+          "version": {
+            "requires": "2.0.0.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.3.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rkcamera-1.2.6.aar",
+          "url": "rkcamera-1.2.6.aar",
+          "size": 134989,
+          "sha512": "aa7e79457de0ea9c2efde69014da54ecaf76760566e1c94436c21a310349330f3787cf314302c20425f67d6710250c6e419a37f8d3ea163c1de89ceeb4e1b827",
+          "sha256": "0cc86b56d47af55844dd030a2822a5957f284ca83031f56e814622dda996b51c",
+          "sha1": "cd1efccd7ef3cd03f726d822515b5bfbcc12a32f",
+          "md5": "8b1835145725e09091282608cecfe5f3"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.17.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.13.0"
+          }
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.7.6"
+          }
+        },
+        {
+          "group": "androidx.compose.material3",
+          "module": "material3",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-tooling-preview",
+          "version": {
+            "requires": "1.7.6"
+          }
+        },
+        {
+          "group": "androidx.activity",
+          "module": "activity-compose",
+          "version": {
+            "requires": "1.12.4"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer-core",
+          "version": {
+            "requires": "2.19.1"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpbase",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpmedia",
+          "version": {
+            "requires": "2.0.4.8"
+          }
+        },
+        {
+          "group": "com.omsi.lib.cpdevice",
+          "module": "cpmedia.ipcam",
+          "version": {
+            "requires": "2.0.0.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.3.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "rkcamera-1.2.6.aar",
+          "url": "rkcamera-1.2.6.aar",
+          "size": 134989,
+          "sha512": "aa7e79457de0ea9c2efde69014da54ecaf76760566e1c94436c21a310349330f3787cf314302c20425f67d6710250c6e419a37f8d3ea163c1de89ceeb4e1b827",
+          "sha256": "0cc86b56d47af55844dd030a2822a5957f284ca83031f56e814622dda996b51c",
+          "sha1": "cd1efccd7ef3cd03f726d822515b5bfbcc12a32f",
+          "md5": "8b1835145725e09091282608cecfe5f3"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rkcamera-1.2.6-javadoc.jar",
+          "url": "rkcamera-1.2.6-javadoc.jar",
+          "size": 319929,
+          "sha512": "2e83de325d377f7657ba1353e28832476dff1ec8baef92351f79daa3789ae5de64e9c32f345b8f3b2e7db1fe5375b28b3c688f2b2439c91edd3b9fa4156de903",
+          "sha256": "1154279069c4237252f7981da67ad65aa130fec1ad86c255223389ed13e6435d",
+          "sha1": "47936f4ea86fd5a6c0a2c9ee5c0098121a358b85",
+          "md5": "ab7e386ddb455de054cd8e3a7e514637"
+        }
+      ]
+    }
+  ]
+}
